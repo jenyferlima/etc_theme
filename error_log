@@ -1,0 +1,2 @@
+[21-Jun-2018 23:31:24] PHP Fatal error:  Call to undefined function  wp_title() in /home/etcbr074/public_html/wp-content/themes/ETCBr/header.php on line 5
+[21-Jun-2018 23:33:19] PHP Fatal error:  Call to undefined function  wp_title() in /home/etcbr074/public_html/wp-content/themes/ETCBr/header.php on line 5
