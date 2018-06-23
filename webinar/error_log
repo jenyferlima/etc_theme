@@ -1,0 +1,8 @@
+[07-Jun-2018 13:14:47] PHP Warning:  include(include/barra.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/etcbr074/public_html/webinar1/header.php on line 29
+[07-Jun-2018 13:14:47] PHP Warning:  include(include/barra.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/etcbr074/public_html/webinar1/header.php on line 29
+[07-Jun-2018 13:14:47] PHP Warning:  include(include/barra.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/etcbr074/public_html/webinar1/header.php on line 29
+[07-Jun-2018 13:14:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/barra.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/etcbr074/public_html/webinar1/header.php on line 29
+[07-Jun-2018 13:14:47] PHP Fatal error:  Call to undefined function  bloginfo() in /home/etcbr074/public_html/webinar1/footer.php on line 5
+[08-Jun-2018 13:57:37] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/etcbr074/public_html/webinar/teste.php on line 28
+[08-Jun-2018 13:57:37] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/etcbr074/public_html/webinar/teste.php on line 29
+[08-Jun-2018 13:57:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/etcbr074/public_html/webinar/teste.php:28) in /home/etcbr074/public_html/webinar/teste.php on line 32
