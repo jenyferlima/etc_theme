@@ -1,0 +1,2 @@
+[07-Jun-2018 13:26:59] PHP Fatal error:  Call to undefined function  bloginfo() in /home/etcbr074/public_html/wp-content/themes/ETCBr/include/barra.php on line 5
+[07-Jun-2018 13:27:24] PHP Fatal error:  Call to undefined function  bloginfo() in /home/etcbr074/public_html/wp-content/themes/ETCBr/include/barra.php on line 5
