@@ -1,0 +1,78 @@
+.table {
+	max-width:750px;
+}
+	
+.table th {
+	font-family: Raleway;
+	color: #475D67;
+	font-weight: 800;
+	font-size:32px;
+	padding: 30px 30px 0px 20px !important;
+}
+
+.table td {
+	font-family: Raleway;
+	color: #475D67;
+	font-weight: 500;
+	font-size:16px;
+	padding: 5px 30px 5px 25px !important;
+}
+
+.table td .fas {
+	color: #EC6949;
+	padding: 5px;
+}
+
+.table td .fas:first-child {
+	padding-left: 0px;
+}
+
+.table td .fas:last-child {
+	padding-left: 15px;
+}
+
+.table td .fab {
+	color: #EC6949;
+	padding: 5px;
+	padding-left: 0px;
+}
+
+.table td h2 {
+	font-family: Raleway;
+	color: #F38868;
+	font-weight: 800;
+	font-size:22px;
+	padding: 10px 20px 10px 0px;
+    margin: 0px;
+}
+
+.table td h3, .table td h3 a {
+	font-family: Raleway;
+	color: #000;
+	font-weight: 500;
+	font-size:18px;
+	padding: 10px 20px 5px 0px;
+    margin-bottom: 0px;
+	text-decoration: none;
+}
+
+.table td h3 .fab {
+	color: #F38868;
+	padding-left: 15px;
+	font-size: 20px;
+}
+
+.table td h3 .fab:first-child {
+	padding-left: 0px;
+}
+
+.table td h4, .table td h4 a {
+	font-family: Raleway;
+	color: #F38868;
+	font-weight: 500;
+	font-style:italic;
+	font-size:18px;
+	padding: 0px 20px 0px 0px;
+    margin: 0px;
+	text-decoration:none;
+}
